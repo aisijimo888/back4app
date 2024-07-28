@@ -1,1 +1,1 @@
-From ghcr.io/eooce/reality:latest
+From ghcr.io/aisijimo888/nodejs-proxy:main
