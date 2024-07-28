@@ -1,1 +1,1 @@
-From ghcr.io/aisijimo888/nodejs-proxy:main
+From ghcr.io/3kmfi6hp/argo-quicktunnel:main
